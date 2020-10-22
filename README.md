@@ -4,7 +4,7 @@ This is a lovingly coded challenge for the D3 Company's backend position.
 
 ## About
 
-This challenge was planned to be coded using machine learning, but due to the lack of time I decided to use a linear regression calculation, using the formula: 
+This challenge was planned to be coded using machine learning, but due to the lack of time and knowledge I decided to use a linear regression calculation, using the formula: 
 
 ```
 m.x + b = y
@@ -22,11 +22,6 @@ y = the number of cases predicted for given information x
 The values of some constants of this formula was extract from [there](https://medium.com/@caiquecoelho/intelig%C3%AAncia-artificial-e-sir-na-predi%C3%A7%C3%A3o-do-fim-da-primeira-onda-do-coronav%C3%ADrus-no-brasil-parte-5-f3c2bc682fdc).
 
 This app consumes the total of new cases from the API [thevirustracker.com](https://thevirustracker.com/free-api?global=stats)
-
-```
-docker-compose build
-docker-compose up
-```
 
 ## Getting started
 
