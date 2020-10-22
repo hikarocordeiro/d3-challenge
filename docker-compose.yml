@@ -1,0 +1,6 @@
+# For local development
+app:
+  build: .
+  dockerfile: Dockerfile
+  ports:
+    - "5000"
